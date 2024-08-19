@@ -1,11 +1,13 @@
-import Image from "next/image";
+import { Header } from "./component/Header";
+import { Footer } from "./component/Footer";
+import { Main } from "./component/Main";
 
 export default function Landing() {
   return (
-    <>
-      <header>ヘッダー</header>
-      <main>メイン</main>
-      <footer>フッター</footer>
-    </>
+    <main>
+      <Header />
+      <Main />
+      <Footer />
+    </main>
   );
 }

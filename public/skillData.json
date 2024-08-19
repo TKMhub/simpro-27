@@ -1,0 +1,27 @@
+{
+  "design": [
+    { "name": "Figma", "explanation": "レベル感を説明する" },
+    { "name": "Illustrator", "explanation": "レベル感を説明する" },
+    { "name": "Premier Pro", "explanation": "レベル感を説明する" }
+  ],
+  "frontend": [
+    { "name": "HTML / CSS", "explanation": "レベル感を説明する" },
+    { "name": "CSSモジュール", "explanation": "レベル感を説明する" },
+    { "name": "Next.js", "explanation": "レベル感を説明する" },
+    { "name": "React", "explanation": "レベル感を説明する" },
+    { "name": "Vue.js", "explanation": "レベル感を説明する" },
+    { "name": "TypeScript", "explanation": "レベル感を説明する" }
+  ],
+  "backend": [
+    { "name": "Spring", "explanation": "レベル感を説明する" },
+    { "name": "Django", "explanation": "レベル感を説明する" },
+    { "name": "Java", "explanation": "レベル感を説明する" },
+    { "name": "Python", "explanation": "レベル感を説明する" },
+    { "name": "SQL", "explanation": "レベル感を説明する" },
+    { "name": "PostgreSQL", "explanation": "レベル感を説明する" }
+  ],
+  "infrastructure": [
+    { "name": "Firebase", "explanation": "レベル感を説明する" },
+    { "name": "supabase", "explanation": "レベル感を説明する" }
+  ]
+}
