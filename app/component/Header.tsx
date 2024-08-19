@@ -12,7 +12,7 @@ export function Header() {
           Contact
         </Button>
         <Button className="text-white text-xl" asChild>
-          <Link href="/login">Sign In</Link>
+          <Link href="/auth/signIn">Sign In</Link>
         </Button>
       </nav>
     </header>
